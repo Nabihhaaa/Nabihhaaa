@@ -12,7 +12,7 @@
 
 ### 🛡️ Profile Overview
 
-I am **Digital Forensics & Cybersecurity student (3rd Year) at Hamdard University** with a strong foundation in network defense, security architecture, and cryptography. I build custom security tools that merge theoretical computer science with real-world threat analysis and offensive security testing.
+I am a **Digital Forensics & Cybersecurity student (3rd Year) at Hamdard University** with a strong foundation in network defense, security architecture, and cryptography. I build custom security tools that merge theoretical computer science with real-world threat analysis and offensive security testing.
 
 * 🎓 **Education:** B.S. in Digital Forensics & Cybersecurity (Hamdard University, 2024–2028)
 * 📜 **Certifications:** Certified Ethical Hacker (CEH), Microsoft Student SOC Program Foundations, Google Foundations of Cybersecurity, Google Security Risk Management, Cisco Networking Basics.
@@ -75,11 +75,10 @@ I am **Digital Forensics & Cybersecurity student (3rd Year) at Hamdard Universit
 
 ### 📜 Certifications & Training
 
-* 🏆 **EC-Council / IBA:** Certified Ethical Hacker (CEH)[cite: 6]
-* 🟦 **Microsoft:** Student SOC Program Foundations Training[cite: 6]
-* 🟨 **Google:** Play It Safe: Manage Security Risks[cite: 6]
-* 🟨 **Google:** Foundations of Cybersecurity[cite: 6]
-* 🔷 **Cisco:** Networking Basics & Introduction to Cybersecurity[cite: 6]
+* 🟦 **Microsoft:** Student SOC Program Foundations Training
+* 🟨 **Google:** Play It Safe: Manage Security Risks
+* 🟨 **Google:** Foundations of Cybersecurity
+* 🔷 **Cisco:** Networking Basics & Introduction to Cybersecurity
 
 ---
 
