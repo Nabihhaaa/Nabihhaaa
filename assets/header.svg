@@ -36,7 +36,7 @@
   <!-- Title & Subtitle -->
   <text x="40" y="65" fill="#FFFFFF" font-family="'Segoe UI', Roboto, sans-serif" font-weight="800" font-size="36" letter-spacing="0.5">Nabiha Majid</text>
   
-  <text x="40" y="98" fill="#E58A2B" font-family="'Courier New', monospace" font-weight="700" font-size="16">&gt; Digital Forensics &amp; Cybersecurity Researcher</text>
+  <text x="40" y="98" fill="#E58A2B" font-family="'Courier New', monospace" font-weight="700" font-size="16">&gt; Digital Forensics &amp; Cybersecurity Student</text>
 
   <!-- Core Security Competencies -->
   <text x="40" y="138" fill="#C2A488" font-family="'Segoe UI', sans-serif" font-size="14">Specializing in Applied Cryptography, Protocol Analysis, Threat Hunting &amp; SOC Operations.</text>
