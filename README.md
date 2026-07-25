@@ -1,27 +1,19 @@
 <!-- HEADER BANNER -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Nabihhaaa/Nabihhaaa/main/assets/header.svg" width="100%" alt="Header Banner" />
+  <img src="./assets/header.svg" width="100%" alt="Header Banner" />
 </div>
 
 <br />
-
-<!-- GITHUB STATS CARDS -->
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Nabihhaaa&show_icons=true&theme=radium&bg_color=12100E&title_color=E58A2B&text_color=D4A373&icon_color=E58A2B&border_color=E58A2B&hide_border=false" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nabihhaaa&layout=compact&bg_color=12100E&title_color=E58A2B&text_color=D4A373&border_color=E58A2B&hide_border=false" />
-</div>
-
----
 
 ### 🚀 Featured Projects
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <img src="https://raw.githubusercontent.com/Nabihhaaa/Nabihhaaa/main/assets/project1.svg" width="100%" alt="StegArmor" />
+      <img src="./assets/project1.svg" width="100%" alt="StegArmor" />
     </td>
     <td width="50%" valign="top">
-      <img src="https://raw.githubusercontent.com/Nabihhaaa/Nabihhaaa/main/assets/project2.svg" width="100%" alt="Network Recon Suite" />
+      <img src="./assets/project2.svg" width="100%" alt="Network Recon Suite" />
     </td>
   </tr>
 </table>
