@@ -1,12 +1,11 @@
-<!-- HEADER BANNER CARD -->
+<!-- HEADER BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:238636&height=220&section=header&text=Nabiha%20Majid&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Digital%20Forensics%20%26%20Cybersecurity%20Researcher&descSize=18&descAlignY=62" width="100%" />
+  <br />
+  <h1><b>Nabiha Majid</b></h1>
+  <h3><b>Digital Forensics & Cybersecurity Researcher</b></h3>
+  <p><b>Undergraduate @ Hamdard University</b> &nbsp;•&nbsp; <b>Karachi, Pakistan</b></p>
+  <br />
 </div>
-
-<p align="center">
-  <b>Undergraduate @ Hamdard University</b> &nbsp;•&nbsp; 
-  <b>Karachi, Pakistan</b>
-</p>
 
 ---
 
