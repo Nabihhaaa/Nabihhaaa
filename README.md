@@ -2,8 +2,8 @@
 <div align="center">
   <br />
   <h1><b>Nabiha Majid, CEH</b></h1>
-  <h3><b>Digital Forensics & Cybersecurity Student |
-  <p><i>Undergraduate at Hamdard University |
+  <h3><b>Digital Forensics & Cybersecurity Student 
+  <p><i>Undergraduate at Hamdard University 
   <p><i>Specializing in Applied Cryptography, Covert Communications, and Network Security</i></p>
   <br />
 </div>
@@ -12,7 +12,7 @@
 
 ### 🛡️ Profile Overview
 
-I am a **Certified Ethical Hacker (CEH)** and **Digital Forensics & Cybersecurity student (3rd Year) at Hamdard University** with a strong foundation in network defense, security architecture, and cryptography. I build custom security tools that merge theoretical computer science with real-world threat analysis and offensive security testing.
+I am **Digital Forensics & Cybersecurity student (3rd Year) at Hamdard University** with a strong foundation in network defense, security architecture, and cryptography. I build custom security tools that merge theoretical computer science with real-world threat analysis and offensive security testing.
 
 * 🎓 **Education:** B.S. in Digital Forensics & Cybersecurity (Hamdard University, 2024–2028)
 * 📜 **Certifications:** Certified Ethical Hacker (CEH), Microsoft Student SOC Program Foundations, Google Foundations of Cybersecurity, Google Security Risk Management, Cisco Networking Basics.
