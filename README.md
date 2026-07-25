@@ -1,6 +1,6 @@
 <!-- HEADER BANNER SVG -->
 <div align="center">
-  <img src="./assets/header.svg" width="100%" alt="Header Banner" />
+ <img src="./assets/header.svg?v=2" width="100%" alt="Header Banner" />
 </div>
 
 <br />
