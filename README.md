@@ -1,46 +1,48 @@
-<!-- HEADER BANNER -->
+<!-- HEADER BANNER CARD -->
 <div align="center">
-  <br />
-  <h1><b>Nabiha Majid</b></h1>
-  <h3><b>Digital Forensics & Cybersecurity Student 
-  <p><i>Undergraduate at Hamdard University 
-  <p><i>Specializing in Applied Cryptography, Covert Communications, and Network Security</i></p>
-  <br />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:238636&height=220&section=header&text=Nabiha%20Majid,%20&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Digital%20Forensics%20%26%20Cybersecurity%20Researcher&descSize=18&descAlignY=62" width="100%" />
 </div>
+
+<p align="center">
+  <b>Undergraduate @ Hamdard University</b> &nbsp;•&nbsp; 
+  <b>Karachi, Pakistan</b>
+</p>
 
 ---
 
 ### 🛡️ Profile Overview
 
-I am a **Digital Forensics & Cybersecurity student (3rd Year) at Hamdard University** with a strong foundation in network defense, security architecture, and cryptography. I build custom security tools that merge theoretical computer science with real-world threat analysis and offensive security testing.
+I am a **Digital Forensics & Cybersecurity student (3rd Year)** specializing in network defense, security architecture, and applied cryptography. My goal is to build defense-in-depth utilities that merge low-level security concepts with accessible software implementations.
 
-* 🎓 **Education:** B.S. in Digital Forensics & Cybersecurity (Hamdard University, 2024–2028)
-* 📜 **Certifications:** Certified Ethical Hacker (CEH), Microsoft Student SOC Program Foundations, Google Foundations of Cybersecurity, Google Security Risk Management, Cisco Networking Basics.
-* 🎯 **Core Focus:** Defense-in-depth architecture, steganography, protocol analysis, and vulnerability assessment
-* ⚙️ **Operating Systems & Environments:** Kali Linux, Windows, Virtualization
+* 🎓 **Education:** B.S. in Digital Forensics & Cybersecurity — Hamdard University (2024–2028)
+* 📜 **Key Certs:** Microsoft Student SOC Foundations, Google Cybersecurity & Risk Management, Cisco Networking Basics
+* 🎯 **Specializations:** Encrypted Steganography, Protocol Analysis, Threat Hunting, Vulnerability Auditing
+* ⚙️ **Environments:** Kali Linux, Windows Security Subsystems, Virtualization (VMware/VirtualBox)
 
 ---
 
 ### 🚀 Featured Projects
 
-<table>
+<table width="100%">
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 8px; padding: 15px;">
       <h3><b>🛡️ StegArmor — Encrypted Image Steganography</b></h3>
-      <p>A cross-platform security utility combining <b>AES-256-GCM authenticated encryption</b> with <b>LSB image steganography</b> in PNG carriers[cite: 5]. Features dual CLI & Tkinter GUI interfaces[cite: 5].</p>
+      <p>A multi-layered covert communication system combining <b>AES-256-GCM authenticated encryption</b> with <b>LSB pixel matrix injection</b> in PNG carriers.
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/AES--256--GCM-00599C?style=flat-square" />
-        <img src="https://img.shields.io/badge/Cryptography-000000?style=flat-square" />
+        <img src="https://img.shields.io/badge/PBKDF2-SHA256-238636?style=flat-square" />
+        <img src="https://img.shields.io/badge/Tkinter_GUI-FF6F00?style=flat-square" />
       </p>
     </td>
-    <td width="50%" valign="top">
-      <h3><b>📡 Network Packet & Port Assessment Tool</b></h3>
-      <p>Automated network reconnaissance and traffic inspector for analyzing open TCP/UDP ports, banner grabbing, and verifying protocol behavior.</p>
+    <td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 8px; padding: 15px;">
+      <h3><b>📡 Network Inspector & Recon Suite</b></h3>
+      <p>Automated network reconnaissance utility designed for socket analysis, open TCP/UDP port enumeration, banner grabbing, and packet structure inspection.
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
         <img src="https://img.shields.io/badge/Kali_Linux-557C93?style=flat-square&logo=kali-linux&logoColor=white" />
+        <img src="https://img.shields.io/badge/Networking-412991?style=flat-square" />
       </p>
     </td>
   </tr>
@@ -59,9 +61,9 @@ I am a **Digital Forensics & Cybersecurity student (3rd Year) at Hamdard Univers
   <img src="https://img.shields.io/badge/Metasploitable-000000?style=for-the-badge" />
 </p>
 
-* **Network Protocols:** TCP/IP, DNS, DHCP, VLANs, Packet Analysis[cite: 6].
-* **Cryptography & Steganography:** AES-256-GCM, PBKDF2-HMAC-SHA256, LSB Spatial Pixel Modification[cite: 5].
-* **Security Practices:** Ethical Hacking, Vulnerability Assessment, Risk Management, SOC Operations[cite: 5, 6].
+* **Network Protocols:** TCP/IP, DNS, DHCP, VLAN Segmentation, PCAP Analysis
+* **Cryptography & Steganography:** AES-256-GCM, PBKDF2-HMAC-SHA256, LSB Spatial Pixel Manipulation
+* **Offensive & Defensive Security:** Ethical Hacking, Vulnerability Scanning, SOC Operations, Risk Management
 
 #### 💻 Development & System Scripting
 <p>
@@ -82,22 +84,22 @@ I am a **Digital Forensics & Cybersecurity student (3rd Year) at Hamdard Univers
 
 ---
 
-### 🎯 Roadmap & Current Focus
+### 🎯 Roadmap & Focus Areas
 
-<table>
+<table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h4><b>📌 Academic & Personal Focus</b></h4>
+      <h4><b>📌 Current Focus</b></h4>
       <ul>
-        <li>Applied Cryptography & Secure Key Exchange Protocols[cite: 5]</li>
-        <li>Digital Forensics Artifact Analysis & Memory Forensics</li>
-        <li>Subnetting, Routing Architecture, and Network Hardening[cite: 6]</li>
+        <li>Applied Cryptography & Authenticated Encryption (AEAD)</li>
+        <li>Digital Forensics Artifact Analysis & Memory Memory Inspection</li>
+        <li>Subnetting, Routing Architecture, and Network Hardening</li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <h4><b>📈 Future Directions</b></h4>
       <ul>
-        <li>Advanced Penetration Testing & Exploit Development</li>
+        <li>Advanced Penetration Testing & Vulnerability Assessment</li>
         <li>Web Application Security & OWASP Top 10 Auditing</li>
         <li>Automated Threat Intelligence Scripting in Python</li>
       </ul>
@@ -108,5 +110,5 @@ I am a **Digital Forensics & Cybersecurity student (3rd Year) at Hamdard Univers
 ---
 
 <div align="center">
-  <p>📫 Connect with me on <a href="https://www.linkedin.com/in/nabiha-majid-45234a272">LinkedIn</a> or explore my repositories!</p>
+  <p>📫 <b>Let's Connect:</b> <a href="https://www.linkedin.com/in/nabiha-majid-45234a272">LinkedIn Profile</a></p>
 </div>
