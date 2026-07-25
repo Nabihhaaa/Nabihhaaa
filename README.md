@@ -1,6 +1,6 @@
 <!-- HEADER BANNER CARD -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:238636&height=220&section=header&text=Nabiha%20Majid,%20&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Digital%20Forensics%20%26%20Cybersecurity%20Researcher&descSize=18&descAlignY=62" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:238636&height=220&section=header&text=Nabiha%20Majid&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Digital%20Forensics%20%26%20Cybersecurity%20Researcher&descSize=18&descAlignY=62" width="100%" />
 </div>
 
 <p align="center">
@@ -23,11 +23,11 @@ I am a **Digital Forensics & Cybersecurity student (3rd Year)** specializing in 
 
 ### 🚀 Featured Projects
 
-<table width="100%">
+<table>
   <tr>
-    <td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 8px; padding: 15px;">
+    <td width="50%" valign="top">
       <h3><b>🛡️ StegArmor — Encrypted Image Steganography</b></h3>
-      <p>A multi-layered covert communication system combining <b>AES-256-GCM authenticated encryption</b> with <b>LSB pixel matrix injection</b> in PNG carriers.
+      <p>A multi-layered covert communication system combining <b>AES-256-GCM authenticated encryption</b> with <b>LSB pixel matrix injection</b> in PNG carriers.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/AES--256--GCM-00599C?style=flat-square" />
@@ -35,9 +35,9 @@ I am a **Digital Forensics & Cybersecurity student (3rd Year)** specializing in 
         <img src="https://img.shields.io/badge/Tkinter_GUI-FF6F00?style=flat-square" />
       </p>
     </td>
-    <td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 8px; padding: 15px;">
+    <td width="50%" valign="top">
       <h3><b>📡 Network Inspector & Recon Suite</b></h3>
-      <p>Automated network reconnaissance utility designed for socket analysis, open TCP/UDP port enumeration, banner grabbing, and packet structure inspection.
+      <p>Automated network reconnaissance utility designed for socket analysis, open TCP/UDP port enumeration, banner grabbing, and packet structure inspection.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
@@ -86,13 +86,13 @@ I am a **Digital Forensics & Cybersecurity student (3rd Year)** specializing in 
 
 ### 🎯 Roadmap & Focus Areas
 
-<table width="100%">
+<table>
   <tr>
     <td width="50%" valign="top">
       <h4><b>📌 Current Focus</b></h4>
       <ul>
         <li>Applied Cryptography & Authenticated Encryption (AEAD)</li>
-        <li>Digital Forensics Artifact Analysis & Memory Memory Inspection</li>
+        <li>Digital Forensics Artifact Analysis & Memory Inspection</li>
         <li>Subnetting, Routing Architecture, and Network Hardening</li>
       </ul>
     </td>
