@@ -2,8 +2,8 @@
 <div align="center">
   <br />
   <h1><b>Nabiha Majid, CEH</b></h1>
-  <h3><b>Digital Forensics & Cybersecurity Student | Certified Ethical Hacker</b></h3>
-  <p><i>Undergraduate at Hamdard University | CEH Certified @ IBA Karachi</i></p>
+  <h3><b>Digital Forensics & Cybersecurity Student |
+  <p><i>Undergraduate at Hamdard University |
   <p><i>Specializing in Applied Cryptography, Covert Communications, and Network Security</i></p>
   <br />
 </div>
@@ -12,12 +12,12 @@
 
 ### 🛡️ Profile Overview
 
-I am a **Certified Ethical Hacker (CEH)** and **Digital Forensics & Cybersecurity student (2nd Year) at Hamdard University**[cite: 6] with a strong foundation in network defense, security architecture, and cryptography[cite: 6]. I build custom security tools that merge theoretical computer science with real-world threat analysis and offensive security testing.
+I am a **Certified Ethical Hacker (CEH)** and **Digital Forensics & Cybersecurity student (3rd Year) at Hamdard University** with a strong foundation in network defense, security architecture, and cryptography. I build custom security tools that merge theoretical computer science with real-world threat analysis and offensive security testing.
 
-* 🎓 **Education:** B.S. in Digital Forensics & Cybersecurity (Hamdard University, 2024–2028)[cite: 6]
-* 📜 **Certifications:** Certified Ethical Hacker (CEH), Microsoft Student SOC Program Foundations[cite: 6], Google Foundations of Cybersecurity[cite: 6], Google Security Risk Management[cite: 6], Cisco Networking Basics[cite: 6]
-* 🎯 **Core Focus:** Defense-in-depth architecture, steganography, protocol analysis, and vulnerability assessment[cite: 6]
-* ⚙️ **Operating Systems & Environments:** Kali Linux, Windows, Virtualization[cite: 6]
+* 🎓 **Education:** B.S. in Digital Forensics & Cybersecurity (Hamdard University, 2024–2028)
+* 📜 **Certifications:** Certified Ethical Hacker (CEH), Microsoft Student SOC Program Foundations, Google Foundations of Cybersecurity, Google Security Risk Management, Cisco Networking Basics.
+* 🎯 **Core Focus:** Defense-in-depth architecture, steganography, protocol analysis, and vulnerability assessment
+* ⚙️ **Operating Systems & Environments:** Kali Linux, Windows, Virtualization
 
 ---
 
