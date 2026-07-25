@@ -18,7 +18,7 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <img src="assets/assets/assets/project1.svg" width="100%" alt="StegArmor" />
+      <img src="assets/assets/project1.svg" width="100%" alt="StegArmor" />
     </td>
     <td width="50%" valign="top">
       <img src="assets/assets/assets/project2.svg" width="100%" alt="Network Recon Suite" />
