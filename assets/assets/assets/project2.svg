@@ -1,0 +1,17 @@
+<svg width="100%" height="150" viewBox="0 0 380 150" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0" y="0" width="380" height="150" rx="8" fill="#14100D"/>
+  <rect x="1" y="1" width="378" height="148" rx="7" fill="none" stroke="#2B1F16" stroke-width="1.5"/>
+  <path d="M 0 0 H 380" stroke="#D97706" stroke-width="3"/>
+
+  <text x="20" y="32" fill="#FDE68A" font-family="'Segoe UI', sans-serif" font-weight="700" font-size="15">📡 Network Recon Suite</text>
+
+  <text x="20" y="58" fill="#B0937A" font-family="'Segoe UI', sans-serif" font-size="12">Automated network inspection tool designed for</text>
+  <text x="20" y="76" fill="#B0937A" font-family="'Segoe UI', sans-serif" font-size="12">socket analysis, TCP/UDP port enumeration,</text>
+  <text x="20" y="94" fill="#B0937A" font-family="'Segoe UI', sans-serif" font-size="12">and packet structure audit.</text>
+
+  <rect x="20" y="112" width="60" height="20" rx="4" fill="#24170D" stroke="#5E300B" stroke-width="0.8"/>
+  <text x="29" y="126" fill="#E58A2B" font-family="sans-serif" font-size="10" font-weight="600">Python</text>
+
+  <rect x="88" y="112" width="70" height="20" rx="4" fill="#24170D" stroke="#5E300B" stroke-width="0.8"/>
+  <text x="96" y="126" fill="#E58A2B" font-family="sans-serif" font-size="10" font-weight="600">Wireshark</text>
+</svg>
