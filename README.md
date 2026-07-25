@@ -1,7 +1,7 @@
 <!-- HEADER BANNER -->
 <div align="center">
   <br />
-  <h1><b>Nabiha Majid, CEH</b></h1>
+  <h1><b>Nabiha Majid</b></h1>
   <h3><b>Digital Forensics & Cybersecurity Student 
   <p><i>Undergraduate at Hamdard University 
   <p><i>Specializing in Applied Cryptography, Covert Communications, and Network Security</i></p>
