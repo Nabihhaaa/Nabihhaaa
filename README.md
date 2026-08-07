@@ -4,7 +4,7 @@
 </div>
 
 <br />
-**Profile Overview**
+*Profile Overview*
 
 I am a **Digital Forensics & Cybersecurity student (3rd Year)** specializing in network defense, security architecture, and applied cryptography. My goal is to build defense-in-depth utilities that merge low-level security concepts with accessible software implementations.
 
