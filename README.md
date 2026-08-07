@@ -8,10 +8,10 @@ Profile Overview
 
 I am a **Digital Forensics & Cybersecurity student (3rd Year)** specializing in network defense, security architecture, and applied cryptography. My goal is to build defense-in-depth utilities that merge low-level security concepts with accessible software implementations.
 
-**Education:** B.S. in Digital Forensics & Cybersecurity — Hamdard University (2024–2028)
-**Key Certs:** Microsoft Student SOC Foundations, Google Cybersecurity & Risk Management, Cisco Networking Basics
-**Specializations:** Encrypted Steganography, Protocol Analysis, Threat Hunting, Vulnerability Auditing
-**Environments:** Kali Linux, Windows Security Subsystems, Virtualization (VMware/VirtualBox)
+* **Education:** B.S. in Digital Forensics & Cybersecurity — Hamdard University (2024–2028)
+* **Key Certs:** Microsoft Student SOC Foundations, Google Cybersecurity & Risk Management, Cisco Networking Basics
+* **Specializations:** Encrypted Steganography, Protocol Analysis, Threat Hunting, Vulnerability Auditing
+* **Environments:** Kali Linux, Windows Security Subsystems, Virtualization (VMware/VirtualBox)
 
 ---
 
