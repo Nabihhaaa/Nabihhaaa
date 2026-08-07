@@ -4,18 +4,18 @@
 </div>
 
 <br />
-🛡️ Profile Overview
+Profile Overview
 
 I am a **Digital Forensics & Cybersecurity student (3rd Year)** specializing in network defense, security architecture, and applied cryptography. My goal is to build defense-in-depth utilities that merge low-level security concepts with accessible software implementations.
 
-* 🎓 **Education:** B.S. in Digital Forensics & Cybersecurity — Hamdard University (2024–2028)
-* 📜 **Key Certs:** Microsoft Student SOC Foundations, Google Cybersecurity & Risk Management, Cisco Networking Basics
-* 🎯 **Specializations:** Encrypted Steganography, Protocol Analysis, Threat Hunting, Vulnerability Auditing
-* ⚙️ **Environments:** Kali Linux, Windows Security Subsystems, Virtualization (VMware/VirtualBox)
+**Education:** B.S. in Digital Forensics & Cybersecurity — Hamdard University (2024–2028)
+**Key Certs:** Microsoft Student SOC Foundations, Google Cybersecurity & Risk Management, Cisco Networking Basics
+**Specializations:** Encrypted Steganography, Protocol Analysis, Threat Hunting, Vulnerability Auditing
+**Environments:** Kali Linux, Windows Security Subsystems, Virtualization (VMware/VirtualBox)
 
 ---
 
-### 🚀 Featured Projects
+###  Featured Projects
 
 <table width="100%">
   <tr>
@@ -34,9 +34,9 @@ I am a **Digital Forensics & Cybersecurity student (3rd Year)** specializing in 
 
 ---
 
-### 🛠️ Tech Stack & Security Toolkit
+### Tech Stack & Security Toolkit
 
-#### 🛡️ Security Tools & Forensics
+####  Security Tools & Forensics
 <p>
   <img src="https://img.shields.io/badge/Kali_Linux-E58A2B?style=for-the-badge&logo=kali-linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
@@ -49,7 +49,7 @@ I am a **Digital Forensics & Cybersecurity student (3rd Year)** specializing in 
 * **Cryptography & Steganography:** AES-256-GCM, PBKDF2-HMAC-SHA256, LSB Spatial Pixel Manipulation
 * **Offensive & Defensive Security:** Ethical Hacking, Vulnerability Scanning, SOC Operations, Risk Management
 
-#### 💻 Development & System Scripting
+####  Development & System Scripting
 <p>
   <img src="https://img.shields.io/badge/Python-E58A2B?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=GNU-bash&logoColor=white" />
@@ -59,21 +59,21 @@ I am a **Digital Forensics & Cybersecurity student (3rd Year)** specializing in 
 
 ---
 
-### 📜 Certifications & Training
+###  Certifications & Training
 
-* 🟦 **Microsoft:** Student SOC Program Foundations Training
-* 🟨 **Google:** Play It Safe: Manage Security Risks
-* 🟨 **Google:** Foundations of Cybersecurity
-* 🔷 **Cisco:** Networking Basics & Introduction to Cybersecurity
+ **Microsoft:** Student SOC Program Foundations Training
+ **Google:** Play It Safe: Manage Security Risks
+ **Google:** Foundations of Cybersecurity
+ **Cisco:** Networking Basics & Introduction to Cybersecurity
 
 ---
 
-### 🎯 Roadmap & Focus Areas
+###  Roadmap & Focus Areas
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h4><b>📌 Current Focus</b></h4>
+      <h4><b> Current Focus</b></h4>
       <ul>
         <li>Applied Cryptography & Authenticated Encryption (AEAD)</li>
         <li>Digital Forensics Artifact Analysis & Memory Inspection</li>
@@ -81,7 +81,7 @@ I am a **Digital Forensics & Cybersecurity student (3rd Year)** specializing in 
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h4><b>📈 Future Directions</b></h4>
+      <h4><b> Future Directions</b></h4>
       <ul>
         <li>Advanced Penetration Testing & Vulnerability Assessment</li>
         <li>Web Application Security & OWASP Top 10 Auditing</li>
@@ -94,5 +94,5 @@ I am a **Digital Forensics & Cybersecurity student (3rd Year)** specializing in 
 ---
 
 <div align="center">
-  <p>📫 <b>Let's Connect:</b> <a href="https://www.linkedin.com/in/nabiha-majid-45234a272">LinkedIn Profile</a></p>
+  <p> <b>Let's Connect:</b> <a href="https://www.linkedin.com/in/nabiha-majid-45234a272">LinkedIn Profile</a></p>
 </div>
